@@ -13,3 +13,4 @@ jobs:
         with:
           node-version: '22'
       - run: node --check src/config.js
+      - run: node tests/config.test.cjs
