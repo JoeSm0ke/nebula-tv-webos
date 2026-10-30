@@ -6,8 +6,6 @@ Un autre écran d'accueil pour les anciennes TV LG webOS.
 
 Nebula remplace le menu d'accueil de webOS par une interface pilotable à la télécommande. Les raccourcis vers les applications sont personnalisables. Le comportement des boutons Home et Back, le réveil et le lancement de l'accueil font partie du projet.
 
-Nebula n'a pas besoin d'Anime Sama, de Moonlight ni d'un serveur PC pour présenter l'accueil. Ces intégrations ne sont que des raccourcis facultatifs.
-
 ## Matériel
 
 LG webOS
